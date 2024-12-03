@@ -1,0 +1,9 @@
+Input Color (RGB): [67, 29, 21]
+Predicted Color Combinations (RGB), Broad Categories, and Names:
+[236, 250, 178] - peach - palegoldenrod
+[59, 9, 74] - purple - midnightblue
+[22, 33, 101] - darkblue - midnightblue
+[81, 15, 3] - Brown - maroon
+[3, 74, 17] - green - darkgreen
+[68, 41, 122] - purple - darkslateblue
+[8, 0, 51] - black - midnightblue
